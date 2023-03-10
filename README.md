@@ -7,4 +7,5 @@ The rule of this game is simple - avoid all the raindrop falling from above.
 You may control the User Interface and your character by pressing the buttons circled as the figure above indicates.    
 
 ## Demo video  
-[![Video Label](http://img.youtube.com/vi/7Oj7tbJ0so0/0.jpg)](https://youtu.be/7Oj7tbJ0so0)
+[![Video Label](http://img.youtube.com/vi/7Oj7tbJ0so0/0.jpg)](https://youtu.be/7Oj7tbJ0so0)  
+Click an image above to play a demo video.    
