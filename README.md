@@ -1,5 +1,5 @@
 # Between_the_raindrops
-This is a simple video game developed using NUC140.  
+This is a simple video game developed using Nuvoton NUC140.  
 The rule of this game is simple - avoid all the raindrop falling from above.    
 
 ## How to play  
